@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "fastapp"
+name = "FastAPI-on-DO-App-Platform"
 version = "0.0.1"
 description = ""
-authors = ["Evan Baird <mrcartoonster@gmail.com>"]
+authors = ["AECS4U <info@aecs4u.it>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
